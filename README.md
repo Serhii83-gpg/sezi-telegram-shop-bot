@@ -1,1 +1,2 @@
-# sezi-telegram-shop-bot
+# SeZI Telegram Bot
+Магазин-бот на Python для Telegram с оплатой через Stripe.
